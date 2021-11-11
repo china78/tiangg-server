@@ -1,0 +1,6 @@
+[submodule "sub/tiangg-admin"]
+	path = sub/tiangg-admin
+	url = https://github.com/china78/tiangg-admin.git
+[submodule "sub/tiangg"]
+	path = sub/tiangg
+	url = https://github.com/china78/tiangg.git
