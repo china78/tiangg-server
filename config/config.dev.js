@@ -15,8 +15,8 @@ module.exports = {
     password: '666999'
   },
   oss: {
-    accessKeyId: 'LTAI5tGf1SJJqA6fhuDeWBFY',
-    accessKeySecret: 'IffONMuZXSE3I2TVWbwlvp6kg3OhUE',
+    accessKeyId: '',
+    accessKeySecret: '',
     host: 'https://tggoss.oss-cn-hangzhou.aliyuncs.com', // eg. https://xxxxxx.oss-cn-hangzhou.aliyuncs.com'
     bucket: 'tggoss',
     region: 'oss-cn-hangzhou' // eg. oss-cn-hangzhou
